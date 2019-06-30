@@ -135,8 +135,10 @@
 ![首页2.png](https://images.gitee.com/uploads/images/2019/0630/225757_d0ec372b_5112336.png)
 
    - 定制化：
+   
       A：由于网站打开速度过慢，我使用插件：WP Super Cache来缓存网站网页，使用户打开速度加快，避免心态上的疲劳。![缓存.png](https://images.gitee.com/uploads/images/2019/0630/225757_63dc3ef7_5112336.png)
-B：使用网站地图插件，为用户提供方便快捷的网站指引。
+
+      B：使用网站地图插件，为用户提供方便快捷的网站指引。
 ![网站地图.png](https://images.gitee.com/uploads/images/2019/0630/225757_543e8659_5112336.png)
 
 
