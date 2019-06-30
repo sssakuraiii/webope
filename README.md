@@ -47,47 +47,54 @@
       - [我的架站手册——（3）neamcheap篇](http://liushiying.me/2019/05/13/namecheap/)
 
    8.平面设计：
-      - 字体使用上，主要部分使用白底黑字/黑底白字的搭配，更好地突出内容，次要部分如文章摘要等，使用灰底灰字的搭配，可以在更好地衬托主体的前提下，让访客了解到文章主要内容。
-      - 网站为红黑搭配，色彩冲击力强，对比度高，用经典时尚的色彩恰当地引起访客的注意力和兴奋感。
-      - 网站首页用绿色的树木象征网站主题 “网站可用性与用户研究” 的可持续性，并通过红绿色的对比进行访客视觉上的刺激。
-      - 网站背景为白色，突出分类与文章等灰色区块所在。使整体网站不沉闷，够明晰。网站文章在排版上风格统一，区块分明，配色简洁，可读性高。
+- 字体使用上，主要部分使用白底黑字/黑底白字的搭配，更好地突出内容，次要部分如文章摘要等，使用灰底灰字的搭配，可以在更好地衬托主体的前提下，让访客了解到文章主要内容。
+      
+- 网站为红黑搭配，色彩冲击力强，对比度高，用经典时尚的色彩恰当地引起访客的注意力和兴奋感。
+      
+- 网站首页用绿色的树木象征网站主题“网站可用性与用户研究”的可持续性，并通过红绿色的对比进行访客视觉上的刺激。
+      
+- 网站背景为白色，突出分类与文章等灰色区块所在。使整体网站不沉闷，够明晰。网站文章在排版上风格统一，区块分明，配色简洁，可读性高。
     
-   9.平面设计插件运用：
-      1.animate it!：
-A.在侧边栏的搜索上使用了下沉特效，在用户前来搜索时不影响用户体验的情况下稍微地给予一点反馈。
+  9.平面设计插件运用：
 
-[特效1](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on)
-B.在侧边栏的图片展示上使用了右移特效，给予用户一点反馈。
+    1.animate it!：
 
+    A.在侧边栏的搜索上使用了下沉特效，在用户前来搜索时不影响用户体验的情况下稍微地给予一点反馈。[特效1](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on)
+
+   B.在侧边栏的图片展示上使用了右移特效，给予用户一点反馈。
 [特效2](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on)
-      2.SiteOrigin：
 
-[搜索](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/) [精选文章](http://liushiying.me/category/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on) [标签云](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on)
+   2.SiteOrigin：[搜索](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/) [精选文章](http://liushiying.me/category/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on) [标签云](http://liushiying.me/category/%E6%9E%B6%E7%AB%99%E6%95%99%E7%A8%8B/?customize_changeset_uuid=1610a372-9782-4d31-8cb0-023fadb60cd8&customize_autosaved=on)
 
    10.云端网站管理：
-       - 云端架站：正常可用的云端网站及域名的正确使用：[用户研究所](http://liushiying.me/)（liushiying.me）
-       - 网站安全：
+
+    - 云端架站：正常可用的云端网站及域名的正确使用：[用户研究所](http://liushiying.me/)（liushiying.me）
+
+    - 网站安全：
 
 ![wordfence截图](https://images.gitee.com/uploads/images/2019/0630/225754_a40a7c7d_5112336.png)
 由图可知，本网站安全程度较低，防火墙强度不高。
-       - 网站性能：
+
+- 网站性能：
 
 ![site24x7(1).png](https://images.gitee.com/uploads/images/2019/0630/225754_0c7e58d9_5112336.png)
 
 ![site24x7.png](https://images.gitee.com/uploads/images/2019/0630/225754_bc72b6ef_5112336.png)
-由图可知，本网站响应速度过慢，网站性能较低。
-      - 网站备份：
-          1. winscp备份截图：![网站备份](https://images.gitee.com/uploads/images/2019/0630/225754_a1344085_5112336.png)![网站备份](https://images.gitee.com/uploads/images/2019/0630/225754_39ad4b16_5112336.png)
-          2. WordPress Backup Plugin插件备份：![插件备份](https://images.gitee.com/uploads/images/2019/0630/225754_56fdb164_5112336.png)![插件备份](https://images.gitee.com/uploads/images/2019/0630/225754_4a672a9e_5112336.png)
-          3. 通过wordpress后台导出工具导到本地：![导出备份](https://images.gitee.com/uploads/images/2019/0630/225754_3fa76928_5112336.png)
-      - 站长工具：![站长工具](https://images.gitee.com/uploads/images/2019/0630/225755_ab6221cb_5112336.png)
 
-         1.必应站长流量：![网站流量](https://images.gitee.com/uploads/images/2019/0630/225755_784bd17d_5112336.png)![网站收录](https://images.gitee.com/uploads/images/2019/0630/225755_4fd01186_5112336.png)
-         2.谷歌站长流量：![谷歌站长工具数据.png](https://images.gitee.com/uploads/images/2019/0630/225755_2c7bdacb_5112336.png)
+由图可知，本网站响应速度过慢，网站性能较低。
+- 网站备份：
+    1. winscp备份截图：![网站备份](https://images.gitee.com/uploads/images/2019/0630/225754_a1344085_5112336.png)![网站备份](https://images.gitee.com/uploads/images/2019/0630/225754_39ad4b16_5112336.png)
+    2. WordPress Backup Plugin插件备份：![插件备份](https://images.gitee.com/uploads/images/2019/0630/225754_56fdb164_5112336.png)![插件备份](https://images.gitee.com/uploads/images/2019/0630/225754_4a672a9e_5112336.png)
+     3. 通过wordpress后台导出工具导到本地：![导出备份](https://images.gitee.com/uploads/images/2019/0630/225754_3fa76928_5112336.png)
+- 站长工具：![站长工具](https://images.gitee.com/uploads/images/2019/0630/225755_ab6221cb_5112336.png)
+
+1.必应站长流量：![网站流量](https://images.gitee.com/uploads/images/2019/0630/225755_784bd17d_5112336.png)![网站收录](https://images.gitee.com/uploads/images/2019/0630/225755_4fd01186_5112336.png)
+2.谷歌站长流量：![谷歌站长工具数据.png](https://images.gitee.com/uploads/images/2019/0630/225755_2c7bdacb_5112336.png)
 ![xian](https://images.gitee.com/uploads/images/2019/0630/225756_8a2ab410_5112336.png)
 
 由图可见，两个站点皆流量过低，急需优化。
-      - seo优化：
+
+- seo优化：
 方法1：增加文章与页面的标题，描述，标签等方便搜索引擎抓取。![xiang](https://images.gitee.com/uploads/images/2019/0630/225755_063dc7c1_5112336.png)
 
 ![seo.png](https://images.gitee.com/uploads/images/2019/0630/225755_19a7288d_5112336.png)
@@ -103,7 +110,7 @@ B.在侧边栏的图片展示上使用了右移特效，给予用户一点反馈
 
    原因分析：为网站增加更为具体的描述，使你的网站对于搜索引擎来说更友好的话，排名与流量都会有明显的提升。
    - 用户研究：
-      - A 用户访谈：
+     - A 用户访谈：
    录音文件放于本仓库中，或点击链接查看视频版本：
 访谈结果：大部分同学认为网站主题不过美观，文章排版不明确，且首页过于空旷。
 ![旧首页1.png](https://images.gitee.com/uploads/images/2019/0630/225757_e547b3c5_5112336.png)
@@ -116,7 +123,7 @@ B.在侧边栏的图片展示上使用了右移特效，给予用户一点反馈
 ![首页1.png](https://images.gitee.com/uploads/images/2019/0630/225757_5f55dc10_5112336.png)
 ![新文章.png](https://images.gitee.com/uploads/images/2019/0630/225756_e8de0f12_5112336.png)
 
-     - B A/B测试：
+   - B   A/B测试：
     A测试：主页无图片，全为文章列表：![首页1.png](https://images.gitee.com/uploads/images/2019/0630/225756_77e5b22c_5112336.png)
     B测试：主页有图，有明确的分类：
 ![首页3.png](https://images.gitee.com/uploads/images/2019/0630/225757_84be5ac8_5112336.png)
